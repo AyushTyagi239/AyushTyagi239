@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ayush+Tyagi;Frontend+%26+Full-Stack+Developer;Tech+Explorer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0FF7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ayush+Tyagi;Frontend+%26+Full-Stack+Developer;Tech+Explorer+from+India" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -46,16 +46,13 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushtyagi239&show_icons=true&theme=radical&title_color=00F5FF&icon_color=FF007F" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushtyagi239&show_icons=true&theme=radical&title_color=00F5FF&icon_color=FF007F" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushtyagi239&theme=radical&ring=00F5FF&fire=FF007F&currStreakLabel=00F5FF" height="180em" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushtyagi239&theme=radical&ring=00F5FF&fire=FF007F&currStreakLabel=00F5FF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtyagi239&layout=compact&theme=radical&title_color=FF007F" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtyagi239&layout=compact&theme=radical&title_color=FF007F" />
 </p>
 
 ---
