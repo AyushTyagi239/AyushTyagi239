@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ayush+Tyagi;  Frontend+%26+Full-Stack+Developer;Tech+Explorer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ayush+Tyagi;Frontend+%26+Full-Stack+Developer;Tech+Explorer+from+India" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ---
 
-### 🚀 About Me  
+## 🚀 About Me  
 
-- 🌱 Sharpening my skills in **React, Next.js, Redux, Node.js + MongoDB**  
+- 🌱 Sharpening my skills in **React, Next.js, Redux, Node.js & MongoDB**  
 - 👯 Open to collaborating on **futuristic cloud-native & full-stack projects**  
 - 🤝 Exploring **DevOps, CI/CD & scalable architectures**  
 - 🎮 I also create **games in Unity & Android Studio**  
@@ -23,7 +23,7 @@
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-tyagi-0a3694267" target="_blank">
@@ -36,7 +36,7 @@
 
 ---
 
-### ⚡ Tech Stack  
+## ⚡ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,unity,androidstudio,ps,git,github,docker,aws" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushtyagi239&show_icons=true&theme=radical&title_color=00F5FF&icon_color=FF007F" alt="GitHub Stats" />
@@ -60,4 +60,4 @@
 
 ---
 
-<h3 align="center">🔥 "Crafting futuristic apps that merge design & technology into innovation." 🔥</h3>
+<h3 align="center">🔥 Crafting futuristic apps that merge design & technology into innovation 🔥</h3>
