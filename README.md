@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushtyagi239&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushtyagi239&theme=matrix&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -17,10 +17,10 @@
 - 🤖 Building intelligent systems as an **LLM Engineer & AI Engineer**  
 - 🌱 Leveling up expertise in **AI Agents, Vector DBs, RAG, LangChain, OpenAI APIs**  
 - ⚛️ Skilled in **React, Next.js, Redux & modern UI engineering**  
-- 🎮 Developer of multiple games in **Unity & Android Studio**  
-- ☁️ Exploring **DevOps, scalable backend systems & cloud-native workflows**  
-- 👨‍💻 All my projects: [github.com/AyushTyagi239](https://github.com/AyushTyagi239)  
-- 📫 Reach me at: **tyagiayush239@gmail.com**  
+- 🎮 Created multiple games in **Unity & Android Studio**  
+- ☁️ Learning **DevOps, scalable architecture & cloud systems**  
+- 👨‍💻 Check my work: [github.com/AyushTyagi239](https://github.com/AyushTyagi239)  
+- 📫 Email: **tyagiayush239@gmail.com**  
 
 ---
 
@@ -40,7 +40,7 @@
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,unity,androidstudio,ps,git,github,py" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,py,tensorflow,pytorch,langchain,unity,androidstudio,ps,git,github,docker,aws" />
 </p>
 
 ---
@@ -48,12 +48,12 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushtyagi239&show_icons=true&theme=radical&title_color=00F5FF&icon_color=FF007F" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushtyagi239&theme=radical&ring=00F5FF&fire=FF007F&currStreakLabel=00F5FF" height="180em" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayushtyagi239&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushtyagi239&theme=radical" height="180em" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtyagi239&layout=compact&theme=radical&title_color=FF007F" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayushtyagi239&layout=compact&theme=radical" />
 </p>
 
 ---
