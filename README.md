@@ -19,7 +19,7 @@
 - ⚛️ Skilled in **React, Next.js, Redux & modern UI engineering**  
 - 🎮 Developer of multiple games in **Unity & Android Studio**  
 - ☁️ Exploring **DevOps, scalable backend systems & cloud-native workflows**  
-- 👨‍💻 All my projects: [github.com/AyushTyagi239](https://github.com/AyushTyagi239)  
+- 👨‍💻 All my projects: **https://github.com/AyushTyagi239**  
 - 📫 Reach me at: **tyagiayush239@gmail.com**  
 
 ---
@@ -40,7 +40,7 @@
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,unity,androidstudio,ps,git,github,docker,aws,py,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,github" />
 </p>
 
 ---
