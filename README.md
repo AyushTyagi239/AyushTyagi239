@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0FF7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ayush+Tyagi;Frontend+%26+Full-Stack+Developer;Tech+Explorer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0FF7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ayush+Tyagi;Frontend+Developer+%7C+LLM+Engineer;AI+Engineer+%7C+Tech+Explorer+from+India" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,11 +14,12 @@
 
 ## 🚀 About Me  
 
-- 🌱 Sharpening my skills in **React, Next.js, Redux, Node.js & MongoDB**  
-- 👯 Open to collaborating on **futuristic cloud-native & full-stack projects**  
-- 🤝 Exploring **DevOps, CI/CD & scalable architectures**  
-- 🎮 I also create **games in Unity & Android Studio**  
-- 👨‍💻 Check my projects here: [github.com/AyushTyagi239](https://github.com/AyushTyagi239)  
+- 🤖 Building intelligent systems as an **LLM Engineer & AI Engineer**  
+- 🌱 Leveling up expertise in **AI Agents, Vector DBs, RAG, LangChain, OpenAI APIs**  
+- ⚛️ Skilled in **React, Next.js, Redux & modern UI engineering**  
+- 🎮 Developer of multiple games in **Unity & Android Studio**  
+- ☁️ Exploring **DevOps, scalable backend systems & cloud-native workflows**  
+- 👨‍💻 All my projects: [github.com/AyushTyagi239](https://github.com/AyushTyagi239)  
 - 📫 Reach me at: **tyagiayush239@gmail.com**  
 
 ---
@@ -39,7 +40,7 @@
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,unity,androidstudio,ps,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,unity,androidstudio,ps,git,github,py" />
 </p>
 
 ---
@@ -57,4 +58,4 @@
 
 ---
 
-<h3 align="center">🔥 Crafting futuristic apps that merge design & technology into innovation 🔥</h3>
+<h3 align="center">🔥 Blending AI, design & engineering to build the future, one project at a time 🔥</h3>
